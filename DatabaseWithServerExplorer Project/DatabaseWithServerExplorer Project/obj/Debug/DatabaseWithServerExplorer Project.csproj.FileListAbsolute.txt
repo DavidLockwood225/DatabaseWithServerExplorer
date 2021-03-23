@@ -1,0 +1,9 @@
+C:\Users\dlockwood024548\source\repos\DatabaseWithServerExplorer Project\DatabaseWithServerExplorer Project\bin\Debug\DatabaseWithServerExplorer Project.exe.config
+C:\Users\dlockwood024548\source\repos\DatabaseWithServerExplorer Project\DatabaseWithServerExplorer Project\bin\Debug\DatabaseWithServerExplorer Project.exe
+C:\Users\dlockwood024548\source\repos\DatabaseWithServerExplorer Project\DatabaseWithServerExplorer Project\bin\Debug\DatabaseWithServerExplorer Project.pdb
+C:\Users\dlockwood024548\source\repos\DatabaseWithServerExplorer Project\DatabaseWithServerExplorer Project\obj\Debug\DatabaseWithServerExplorer Project.csprojAssemblyReference.cache
+C:\Users\dlockwood024548\source\repos\DatabaseWithServerExplorer Project\DatabaseWithServerExplorer Project\obj\Debug\DatabaseWithServerExplorer_Project.Properties.Resources.resources
+C:\Users\dlockwood024548\source\repos\DatabaseWithServerExplorer Project\DatabaseWithServerExplorer Project\obj\Debug\DatabaseWithServerExplorer Project.csproj.GenerateResource.cache
+C:\Users\dlockwood024548\source\repos\DatabaseWithServerExplorer Project\DatabaseWithServerExplorer Project\obj\Debug\DatabaseWithServerExplorer Project.csproj.CoreCompileInputs.cache
+C:\Users\dlockwood024548\source\repos\DatabaseWithServerExplorer Project\DatabaseWithServerExplorer Project\obj\Debug\DatabaseWithServerExplorer Project.exe
+C:\Users\dlockwood024548\source\repos\DatabaseWithServerExplorer Project\DatabaseWithServerExplorer Project\obj\Debug\DatabaseWithServerExplorer Project.pdb
